@@ -91,7 +91,7 @@ def pilih():
          menu4()
          A4 = input('Pilih : ')
          if A4 == 1:
-           bersih()
+           bersih
            single_check_host()
            quit()
          elif A4 == 2:
