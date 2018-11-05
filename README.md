@@ -15,9 +15,9 @@ python2 -m pip install -r requirements.txt
 python2 G-Tools.py
 ```
 # Special Thanks to
-https://www.facebook.com/khoirul.amsori
-https://www.facebook.com/qiuby.zhukhi
-https://www.facebook.com/HardGhost.Aore
+1. https://www.facebook.com/khoirul.amsori
+2. https://www.facebook.com/qiuby.zhukhi
+3. https://www.facebook.com/HardGhost.Aore
 
 # version
 ```
