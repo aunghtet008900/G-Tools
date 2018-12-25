@@ -17,6 +17,7 @@ python2 G-Tool.py
 ```
 type Command "help" for show usage and all command
 ```
+<img src="core/image.jpg">
 ```
 version : 2.7 unv
 ```
