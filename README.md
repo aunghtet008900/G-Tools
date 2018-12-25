@@ -1,5 +1,13 @@
 ![Python 2.6|2.7](https://img.shields.io/badge/python-2.6|2.7-yellow.svg)
+
 ![version 2.7|unv](https://img.shields.io/badge/version-2.7|unv-brightgreen.svg)
+
+
+
+
+
+
+
 
 
 #### Instalation
