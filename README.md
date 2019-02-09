@@ -1,30 +1,5 @@
 ![Python 2.6|2.7](https://img.shields.io/badge/python-2.6|2.7-yellow.svg)
 
-![version 2.7|unv](https://img.shields.io/badge/version-2.7|unv-brightgreen.svg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 #### Instalation
 ```
@@ -34,10 +9,7 @@ python2 -m pip install  -r requirements.txt
 cd G-Tools
 python2 G-Tool.py
 ```
-
-#### Usage
+###### version
 ```
-type Command "help" for show usage and all command
+3.7 unv
 ```
-<img src="core/image.jpg">
-
