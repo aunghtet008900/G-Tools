@@ -1,6 +1,10 @@
 #-*- coding: utf-8 -*-
-import sys,readline
-import requests
+import sys,os
+try:
+    import requests,readline
+except ModuleNotFoundError:
+    os.system('apt install readline && python -m pip install requests')
+        
 from core.library import library as _
 from core.library import host_search as hs
 from core.tmp import menu,logo
