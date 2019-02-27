@@ -14,7 +14,7 @@
 
 #### Installation
 ```
-apt-get install python git
+apt-get install python git readline
 git clone https://github.com/jaxBCD/G-Tools.git
 python -m pip install requests
 cd G-Tools
